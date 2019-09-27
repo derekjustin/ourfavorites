@@ -9,3 +9,6 @@ jam
 burritos
 cake
 brownies
+icecream
+pasta
+peaches
