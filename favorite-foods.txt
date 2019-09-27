@@ -6,3 +6,6 @@ Hummus
 Smoothies
 toast
 jam
+burritos
+cake
+brownies
